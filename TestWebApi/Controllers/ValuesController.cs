@@ -51,7 +51,7 @@ namespace TestWebApi.Controllers
         /// 两数相加
         /// </summary>
         /// <param name="num1">第一个数1111</param>
-        /// <param name="num2">第二个数2</param>
+        /// <param name="num2">第二个数2222</param>
         /// <returns></returns>
         [HttpGet]
         public ActionResult<int> Sum(int num1, int num2)
